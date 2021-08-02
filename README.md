@@ -1,4 +1,5 @@
-# Test_TechDW
+
+# TestTechnicalDW
 Jawaban Technical Test
 
 1. Buat sebuah method utuk retun biodata & function untuk validasi paswword
@@ -13,6 +14,4 @@ Jawaban Technical Test
  - twitter bootstap
  
 
-# Test_TechDW
-# Test_TechDW
-# TestTechnicalDW
+
